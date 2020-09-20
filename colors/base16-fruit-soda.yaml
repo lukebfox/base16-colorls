@@ -1,0 +1,47 @@
+# Base16 Fruit
+# Author: jozip
+
+# Main Colors
+unrecognized_file: '#611fce'
+recognized_file:   '#515151'
+dir:               '#2931df'
+
+# Link
+dead_link:         '#fe3e31'
+link:              '#0f9cfd'
+
+# Special files
+socket:            '#47f74c'
+blockdev:          '#47f74c'
+chardev:           '#47f74c'
+
+# Access Modes
+read:              '#47f74c'
+write:             '#f7e203'
+exec:              '#fe3e31'
+no_access:         '#b5b4b6'
+
+# Age
+day_old:           '#515151'
+hour_old:          '#515151'
+no_modifier:       '#515151'
+
+# File Size
+file_large:        '#fe3e31'
+file_medium:       '#f7e203'
+file_small:        '#515151'
+
+# Random
+report:            '#515151'
+user:              '#0f9cfd'
+normal:            '#515151'
+tree:              '#f7e203'
+empty:             '#979598'
+error:             '#fe3e31'
+
+# Git
+addition:          '#47f74c'
+modification:      '#f7e203'
+deletion:          '#fe3e31'
+untracked:         '#611fce'
+unchanged:         '#515151'

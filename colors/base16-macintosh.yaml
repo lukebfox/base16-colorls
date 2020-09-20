@@ -1,0 +1,47 @@
+# Base16 Macintosh
+# Author: Rebecca Bettencourt (http://www.kreativekorp.com)
+
+# Main Colors
+unrecognized_file: '#4700a5'
+recognized_file:   '#c0c0c0'
+dir:               '#0000d3'
+
+# Link
+dead_link:         '#dd0907'
+link:              '#02abea'
+
+# Special files
+socket:            '#1fb714'
+blockdev:          '#1fb714'
+chardev:           '#1fb714'
+
+# Access Modes
+read:              '#1fb714'
+write:             '#fbf305'
+exec:              '#dd0907'
+no_access:         '#808080'
+
+# Age
+day_old:           '#c0c0c0'
+hour_old:          '#c0c0c0'
+no_modifier:       '#c0c0c0'
+
+# File Size
+file_large:        '#dd0907'
+file_medium:       '#fbf305'
+file_small:        '#c0c0c0'
+
+# Random
+report:            '#c0c0c0'
+user:              '#02abea'
+normal:            '#c0c0c0'
+tree:              '#fbf305'
+empty:             '#808080'
+error:             '#dd0907'
+
+# Git
+addition:          '#1fb714'
+modification:      '#fbf305'
+deletion:          '#dd0907'
+untracked:         '#4700a5'
+unchanged:         '#c0c0c0'

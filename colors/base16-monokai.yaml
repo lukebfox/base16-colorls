@@ -1,0 +1,47 @@
+# Base16 Monokai
+# Author: Wimer Hazenberg (http://www.monokai.nl)
+
+# Main Colors
+unrecognized_file: '#ae81ff'
+recognized_file:   '#f8f8f2'
+dir:               '#66d9ef'
+
+# Link
+dead_link:         '#f92672'
+link:              '#a1efe4'
+
+# Special files
+socket:            '#a6e22e'
+blockdev:          '#a6e22e'
+chardev:           '#a6e22e'
+
+# Access Modes
+read:              '#a6e22e'
+write:             '#f4bf75'
+exec:              '#f92672'
+no_access:         '#75715e'
+
+# Age
+day_old:           '#f8f8f2'
+hour_old:          '#f8f8f2'
+no_modifier:       '#f8f8f2'
+
+# File Size
+file_large:        '#f92672'
+file_medium:       '#f4bf75'
+file_small:        '#f8f8f2'
+
+# Random
+report:            '#f8f8f2'
+user:              '#a1efe4'
+normal:            '#f8f8f2'
+tree:              '#f4bf75'
+empty:             '#a59f85'
+error:             '#f92672'
+
+# Git
+addition:          '#a6e22e'
+modification:      '#f4bf75'
+deletion:          '#f92672'
+untracked:         '#ae81ff'
+unchanged:         '#f8f8f2'

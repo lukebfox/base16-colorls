@@ -1,0 +1,47 @@
+# Base16 IR
+# Author: Timothée Poisot (http://timotheepoisot.fr)
+
+# Main Colors
+unrecognized_file: '#ff73fd'
+recognized_file:   '#b5b3aa'
+dir:               '#96cbfe'
+
+# Link
+dead_link:         '#ff6c60'
+link:              '#c6c5fe'
+
+# Special files
+socket:            '#a8ff60'
+blockdev:          '#a8ff60'
+chardev:           '#a8ff60'
+
+# Access Modes
+read:              '#a8ff60'
+write:             '#ffffb6'
+exec:              '#ff6c60'
+no_access:         '#6c6c66'
+
+# Age
+day_old:           '#b5b3aa'
+hour_old:          '#b5b3aa'
+no_modifier:       '#b5b3aa'
+
+# File Size
+file_large:        '#ff6c60'
+file_medium:       '#ffffb6'
+file_small:        '#b5b3aa'
+
+# Random
+report:            '#b5b3aa'
+user:              '#c6c5fe'
+normal:            '#b5b3aa'
+tree:              '#ffffb6'
+empty:             '#918f88'
+error:             '#ff6c60'
+
+# Git
+addition:          '#a8ff60'
+modification:      '#ffffb6'
+deletion:          '#ff6c60'
+untracked:         '#ff73fd'
+unchanged:         '#b5b3aa'

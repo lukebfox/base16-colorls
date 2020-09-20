@@ -1,0 +1,47 @@
+# Base16 Codeschool
+# Author: blockloop
+
+# Main Colors
+unrecognized_file: '#c59820'
+recognized_file:   '#9ea7a6'
+dir:               '#484d79'
+
+# Link
+dead_link:         '#2a5491'
+link:              '#b02f30'
+
+# Special files
+socket:            '#237986'
+blockdev:          '#237986'
+chardev:           '#237986'
+
+# Access Modes
+read:              '#237986'
+write:             '#a03b1e'
+exec:              '#2a5491'
+no_access:         '#3f4944'
+
+# Age
+day_old:           '#9ea7a6'
+hour_old:          '#9ea7a6'
+no_modifier:       '#9ea7a6'
+
+# File Size
+file_large:        '#2a5491'
+file_medium:       '#a03b1e'
+file_small:        '#9ea7a6'
+
+# Random
+report:            '#9ea7a6'
+user:              '#b02f30'
+normal:            '#9ea7a6'
+tree:              '#a03b1e'
+empty:             '#84898c'
+error:             '#2a5491'
+
+# Git
+addition:          '#237986'
+modification:      '#a03b1e'
+deletion:          '#2a5491'
+untracked:         '#c59820'
+unchanged:         '#9ea7a6'

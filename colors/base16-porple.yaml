@@ -1,0 +1,47 @@
+# Base16 Porple
+# Author: Niek den Breeje (https://github.com/AuditeMarlow)
+
+# Main Colors
+unrecognized_file: '#b74989'
+recognized_file:   '#d8d8d8'
+dir:               '#8485ce'
+
+# Link
+dead_link:         '#f84547'
+link:              '#64878f'
+
+# Special files
+socket:            '#95c76f'
+blockdev:          '#95c76f'
+chardev:           '#95c76f'
+
+# Access Modes
+read:              '#95c76f'
+write:             '#efa16b'
+exec:              '#f84547'
+no_access:         '#65568a'
+
+# Age
+day_old:           '#d8d8d8'
+hour_old:          '#d8d8d8'
+no_modifier:       '#d8d8d8'
+
+# File Size
+file_large:        '#f84547'
+file_medium:       '#efa16b'
+file_small:        '#d8d8d8'
+
+# Random
+report:            '#d8d8d8'
+user:              '#64878f'
+normal:            '#d8d8d8'
+tree:              '#efa16b'
+empty:             '#b8b8b8'
+error:             '#f84547'
+
+# Git
+addition:          '#95c76f'
+modification:      '#efa16b'
+deletion:          '#f84547'
+untracked:         '#b74989'
+unchanged:         '#d8d8d8'

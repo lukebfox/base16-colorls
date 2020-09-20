@@ -1,0 +1,47 @@
+# Base16 Isotope
+# Author: Jan T. Sott
+
+# Main Colors
+unrecognized_file: '#cc00ff'
+recognized_file:   '#d0d0d0'
+dir:               '#0066ff'
+
+# Link
+dead_link:         '#ff0000'
+link:              '#00ffff'
+
+# Special files
+socket:            '#33ff00'
+blockdev:          '#33ff00'
+chardev:           '#33ff00'
+
+# Access Modes
+read:              '#33ff00'
+write:             '#ff0099'
+exec:              '#ff0000'
+no_access:         '#808080'
+
+# Age
+day_old:           '#d0d0d0'
+hour_old:          '#d0d0d0'
+no_modifier:       '#d0d0d0'
+
+# File Size
+file_large:        '#ff0000'
+file_medium:       '#ff0099'
+file_small:        '#d0d0d0'
+
+# Random
+report:            '#d0d0d0'
+user:              '#00ffff'
+normal:            '#d0d0d0'
+tree:              '#ff0099'
+empty:             '#c0c0c0'
+error:             '#ff0000'
+
+# Git
+addition:          '#33ff00'
+modification:      '#ff0099'
+deletion:          '#ff0000'
+untracked:         '#cc00ff'
+unchanged:         '#d0d0d0'

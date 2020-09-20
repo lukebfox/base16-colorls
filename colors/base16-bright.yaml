@@ -1,0 +1,47 @@
+# Base16 Bright
+# Author: Chris Kempson (http://chriskempson.com)
+
+# Main Colors
+unrecognized_file: '#d381c3'
+recognized_file:   '#e0e0e0'
+dir:               '#6fb3d2'
+
+# Link
+dead_link:         '#fb0120'
+link:              '#76c7b7'
+
+# Special files
+socket:            '#a1c659'
+blockdev:          '#a1c659'
+chardev:           '#a1c659'
+
+# Access Modes
+read:              '#a1c659'
+write:             '#fda331'
+exec:              '#fb0120'
+no_access:         '#b0b0b0'
+
+# Age
+day_old:           '#e0e0e0'
+hour_old:          '#e0e0e0'
+no_modifier:       '#e0e0e0'
+
+# File Size
+file_large:        '#fb0120'
+file_medium:       '#fda331'
+file_small:        '#e0e0e0'
+
+# Random
+report:            '#e0e0e0'
+user:              '#76c7b7'
+normal:            '#e0e0e0'
+tree:              '#fda331'
+empty:             '#d0d0d0'
+error:             '#fb0120'
+
+# Git
+addition:          '#a1c659'
+modification:      '#fda331'
+deletion:          '#fb0120'
+untracked:         '#d381c3'
+unchanged:         '#e0e0e0'

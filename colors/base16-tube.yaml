@@ -1,0 +1,47 @@
+# Base16 London
+# Author: Jan T. Sott
+
+# Main Colors
+unrecognized_file: '#98005d'
+recognized_file:   '#d9d8d8'
+dir:               '#009ddc'
+
+# Link
+dead_link:         '#ee2e24'
+link:              '#85cebc'
+
+# Special files
+socket:            '#00853e'
+blockdev:          '#00853e'
+chardev:           '#00853e'
+
+# Access Modes
+read:              '#00853e'
+write:             '#ffd204'
+exec:              '#ee2e24'
+no_access:         '#737171'
+
+# Age
+day_old:           '#d9d8d8'
+hour_old:          '#d9d8d8'
+no_modifier:       '#d9d8d8'
+
+# File Size
+file_large:        '#ee2e24'
+file_medium:       '#ffd204'
+file_small:        '#d9d8d8'
+
+# Random
+report:            '#d9d8d8'
+user:              '#85cebc'
+normal:            '#d9d8d8'
+tree:              '#ffd204'
+empty:             '#959ca1'
+error:             '#ee2e24'
+
+# Git
+addition:          '#00853e'
+modification:      '#ffd204'
+deletion:          '#ee2e24'
+untracked:         '#98005d'
+unchanged:         '#d9d8d8'

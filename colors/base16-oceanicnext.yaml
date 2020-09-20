@@ -1,0 +1,47 @@
+# Base16 OceanicNext
+# Author: https://github.com/voronianski/oceanic-next-color-scheme
+
+# Main Colors
+unrecognized_file: '#c594c5'
+recognized_file:   '#c0c5ce'
+dir:               '#6699cc'
+
+# Link
+dead_link:         '#ec5f67'
+link:              '#5fb3b3'
+
+# Special files
+socket:            '#99c794'
+blockdev:          '#99c794'
+chardev:           '#99c794'
+
+# Access Modes
+read:              '#99c794'
+write:             '#fac863'
+exec:              '#ec5f67'
+no_access:         '#65737e'
+
+# Age
+day_old:           '#c0c5ce'
+hour_old:          '#c0c5ce'
+no_modifier:       '#c0c5ce'
+
+# File Size
+file_large:        '#ec5f67'
+file_medium:       '#fac863'
+file_small:        '#c0c5ce'
+
+# Random
+report:            '#c0c5ce'
+user:              '#5fb3b3'
+normal:            '#c0c5ce'
+tree:              '#fac863'
+empty:             '#a7adba'
+error:             '#ec5f67'
+
+# Git
+addition:          '#99c794'
+modification:      '#fac863'
+deletion:          '#ec5f67'
+untracked:         '#c594c5'
+unchanged:         '#c0c5ce'

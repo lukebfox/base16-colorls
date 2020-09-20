@@ -1,0 +1,47 @@
+# Base16 Woodland
+# Author: Jay Cornwall (https://jcornwall.com)
+
+# Main Colors
+unrecognized_file: '#bb90e2'
+recognized_file:   '#cabcb1'
+dir:               '#88a4d3'
+
+# Link
+dead_link:         '#d35c5c'
+link:              '#6eb958'
+
+# Special files
+socket:            '#b7ba53'
+blockdev:          '#b7ba53'
+chardev:           '#b7ba53'
+
+# Access Modes
+read:              '#b7ba53'
+write:             '#e0ac16'
+exec:              '#d35c5c'
+no_access:         '#9d8b70'
+
+# Age
+day_old:           '#cabcb1'
+hour_old:          '#cabcb1'
+no_modifier:       '#cabcb1'
+
+# File Size
+file_large:        '#d35c5c'
+file_medium:       '#e0ac16'
+file_small:        '#cabcb1'
+
+# Random
+report:            '#cabcb1'
+user:              '#6eb958'
+normal:            '#cabcb1'
+tree:              '#e0ac16'
+empty:             '#b4a490'
+error:             '#d35c5c'
+
+# Git
+addition:          '#b7ba53'
+modification:      '#e0ac16'
+deletion:          '#d35c5c'
+untracked:         '#bb90e2'
+unchanged:         '#cabcb1'

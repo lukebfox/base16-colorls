@@ -1,0 +1,47 @@
+# Base16 Bespin
+# Author: Jan T. Sott
+
+# Main Colors
+unrecognized_file: '#9b859d'
+recognized_file:   '#8a8986'
+dir:               '#5ea6ea'
+
+# Link
+dead_link:         '#cf6a4c'
+link:              '#afc4db'
+
+# Special files
+socket:            '#54be0d'
+blockdev:          '#54be0d'
+chardev:           '#54be0d'
+
+# Access Modes
+read:              '#54be0d'
+write:             '#f9ee98'
+exec:              '#cf6a4c'
+no_access:         '#666666'
+
+# Age
+day_old:           '#8a8986'
+hour_old:          '#8a8986'
+no_modifier:       '#8a8986'
+
+# File Size
+file_large:        '#cf6a4c'
+file_medium:       '#f9ee98'
+file_small:        '#8a8986'
+
+# Random
+report:            '#8a8986'
+user:              '#afc4db'
+normal:            '#8a8986'
+tree:              '#f9ee98'
+empty:             '#797977'
+error:             '#cf6a4c'
+
+# Git
+addition:          '#54be0d'
+modification:      '#f9ee98'
+deletion:          '#cf6a4c'
+untracked:         '#9b859d'
+unchanged:         '#8a8986'

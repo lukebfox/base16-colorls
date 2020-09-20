@@ -1,0 +1,47 @@
+# Base16 PaperColor
+# Author: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+
+# Main Colors
+unrecognized_file: '#005faf'
+recognized_file:   '#878787'
+dir:               '#d75f00'
+
+# Link
+dead_link:         '#bcbcbc'
+link:              '#d75f00'
+
+# Special files
+socket:            '#8700af'
+blockdev:          '#8700af'
+chardev:           '#8700af'
+
+# Access Modes
+read:              '#8700af'
+write:             '#d70087'
+exec:              '#bcbcbc'
+no_access:         '#5f8700'
+
+# Age
+day_old:           '#878787'
+hour_old:          '#878787'
+no_modifier:       '#878787'
+
+# File Size
+file_large:        '#bcbcbc'
+file_medium:       '#d70087'
+file_small:        '#878787'
+
+# Random
+report:            '#878787'
+user:              '#d75f00'
+normal:            '#878787'
+tree:              '#d70087'
+empty:             '#0087af'
+error:             '#bcbcbc'
+
+# Git
+addition:          '#8700af'
+modification:      '#d70087'
+deletion:          '#bcbcbc'
+untracked:         '#005faf'
+unchanged:         '#878787'

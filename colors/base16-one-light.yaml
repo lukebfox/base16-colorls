@@ -1,0 +1,47 @@
+# Base16 One
+# Author: Daniel Pfeifer (http://github.com/purpleKarrot)
+
+# Main Colors
+unrecognized_file: '#a626a4'
+recognized_file:   '#383a42'
+dir:               '#4078f2'
+
+# Link
+dead_link:         '#ca1243'
+link:              '#0184bc'
+
+# Special files
+socket:            '#50a14f'
+blockdev:          '#50a14f'
+chardev:           '#50a14f'
+
+# Access Modes
+read:              '#50a14f'
+write:             '#c18401'
+exec:              '#ca1243'
+no_access:         '#a0a1a7'
+
+# Age
+day_old:           '#383a42'
+hour_old:          '#383a42'
+no_modifier:       '#383a42'
+
+# File Size
+file_large:        '#ca1243'
+file_medium:       '#c18401'
+file_small:        '#383a42'
+
+# Random
+report:            '#383a42'
+user:              '#0184bc'
+normal:            '#383a42'
+tree:              '#c18401'
+empty:             '#696c77'
+error:             '#ca1243'
+
+# Git
+addition:          '#50a14f'
+modification:      '#c18401'
+deletion:          '#ca1243'
+untracked:         '#a626a4'
+unchanged:         '#383a42'

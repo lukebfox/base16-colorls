@@ -1,0 +1,47 @@
+# Base16 Dracula
+# Author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+
+# Main Colors
+unrecognized_file: '#b45bcf'
+recognized_file:   '#e9e9f4'
+dir:               '#62d6e8'
+
+# Link
+dead_link:         '#ea51b2'
+link:              '#a1efe4'
+
+# Special files
+socket:            '#ebff87'
+blockdev:          '#ebff87'
+chardev:           '#ebff87'
+
+# Access Modes
+read:              '#ebff87'
+write:             '#00f769'
+exec:              '#ea51b2'
+no_access:         '#626483'
+
+# Age
+day_old:           '#e9e9f4'
+hour_old:          '#e9e9f4'
+no_modifier:       '#e9e9f4'
+
+# File Size
+file_large:        '#ea51b2'
+file_medium:       '#00f769'
+file_small:        '#e9e9f4'
+
+# Random
+report:            '#e9e9f4'
+user:              '#a1efe4'
+normal:            '#e9e9f4'
+tree:              '#00f769'
+empty:             '#62d6e8'
+error:             '#ea51b2'
+
+# Git
+addition:          '#ebff87'
+modification:      '#00f769'
+deletion:          '#ea51b2'
+untracked:         '#b45bcf'
+unchanged:         '#e9e9f4'

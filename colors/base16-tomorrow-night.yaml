@@ -1,0 +1,47 @@
+# Base16 Tomorrow
+# Author: Chris Kempson (http://chriskempson.com)
+
+# Main Colors
+unrecognized_file: '#b294bb'
+recognized_file:   '#c5c8c6'
+dir:               '#81a2be'
+
+# Link
+dead_link:         '#cc6666'
+link:              '#8abeb7'
+
+# Special files
+socket:            '#b5bd68'
+blockdev:          '#b5bd68'
+chardev:           '#b5bd68'
+
+# Access Modes
+read:              '#b5bd68'
+write:             '#f0c674'
+exec:              '#cc6666'
+no_access:         '#969896'
+
+# Age
+day_old:           '#c5c8c6'
+hour_old:          '#c5c8c6'
+no_modifier:       '#c5c8c6'
+
+# File Size
+file_large:        '#cc6666'
+file_medium:       '#f0c674'
+file_small:        '#c5c8c6'
+
+# Random
+report:            '#c5c8c6'
+user:              '#8abeb7'
+normal:            '#c5c8c6'
+tree:              '#f0c674'
+empty:             '#b4b7b4'
+error:             '#cc6666'
+
+# Git
+addition:          '#b5bd68'
+modification:      '#f0c674'
+deletion:          '#cc6666'
+untracked:         '#b294bb'
+unchanged:         '#c5c8c6'

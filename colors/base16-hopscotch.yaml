@@ -1,0 +1,47 @@
+# Base16 Hopscotch
+# Author: Jan T. Sott
+
+# Main Colors
+unrecognized_file: '#c85e7c'
+recognized_file:   '#b9b5b8'
+dir:               '#1290bf'
+
+# Link
+dead_link:         '#dd464c'
+link:              '#149b93'
+
+# Special files
+socket:            '#8fc13e'
+blockdev:          '#8fc13e'
+chardev:           '#8fc13e'
+
+# Access Modes
+read:              '#8fc13e'
+write:             '#fdcc59'
+exec:              '#dd464c'
+no_access:         '#797379'
+
+# Age
+day_old:           '#b9b5b8'
+hour_old:          '#b9b5b8'
+no_modifier:       '#b9b5b8'
+
+# File Size
+file_large:        '#dd464c'
+file_medium:       '#fdcc59'
+file_small:        '#b9b5b8'
+
+# Random
+report:            '#b9b5b8'
+user:              '#149b93'
+normal:            '#b9b5b8'
+tree:              '#fdcc59'
+empty:             '#989498'
+error:             '#dd464c'
+
+# Git
+addition:          '#8fc13e'
+modification:      '#fdcc59'
+deletion:          '#dd464c'
+untracked:         '#c85e7c'
+unchanged:         '#b9b5b8'

@@ -1,0 +1,47 @@
+# Base16 Rebecca
+# Author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+
+# Main Colors
+unrecognized_file: '#7aa5ff'
+recognized_file:   '#f1eff8'
+dir:               '#2de0a7'
+
+# Link
+dead_link:         '#a0a0c5'
+link:              '#8eaee0'
+
+# Special files
+socket:            '#6dfedf'
+blockdev:          '#6dfedf'
+chardev:           '#6dfedf'
+
+# Access Modes
+read:              '#6dfedf'
+write:             '#ae81ff'
+exec:              '#a0a0c5'
+no_access:         '#666699'
+
+# Age
+day_old:           '#f1eff8'
+hour_old:          '#f1eff8'
+no_modifier:       '#f1eff8'
+
+# File Size
+file_large:        '#a0a0c5'
+file_medium:       '#ae81ff'
+file_small:        '#f1eff8'
+
+# Random
+report:            '#f1eff8'
+user:              '#8eaee0'
+normal:            '#f1eff8'
+tree:              '#ae81ff'
+empty:             '#a0a0c5'
+error:             '#a0a0c5'
+
+# Git
+addition:          '#6dfedf'
+modification:      '#ae81ff'
+deletion:          '#a0a0c5'
+untracked:         '#7aa5ff'
+unchanged:         '#f1eff8'

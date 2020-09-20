@@ -1,0 +1,47 @@
+# Base16 Paraiso
+# Author: Jan T. Sott
+
+# Main Colors
+unrecognized_file: '#815ba4'
+recognized_file:   '#a39e9b'
+dir:               '#06b6ef'
+
+# Link
+dead_link:         '#ef6155'
+link:              '#5bc4bf'
+
+# Special files
+socket:            '#48b685'
+blockdev:          '#48b685'
+chardev:           '#48b685'
+
+# Access Modes
+read:              '#48b685'
+write:             '#fec418'
+exec:              '#ef6155'
+no_access:         '#776e71'
+
+# Age
+day_old:           '#a39e9b'
+hour_old:          '#a39e9b'
+no_modifier:       '#a39e9b'
+
+# File Size
+file_large:        '#ef6155'
+file_medium:       '#fec418'
+file_small:        '#a39e9b'
+
+# Random
+report:            '#a39e9b'
+user:              '#5bc4bf'
+normal:            '#a39e9b'
+tree:              '#fec418'
+empty:             '#8d8687'
+error:             '#ef6155'
+
+# Git
+addition:          '#48b685'
+modification:      '#fec418'
+deletion:          '#ef6155'
+untracked:         '#815ba4'
+unchanged:         '#a39e9b'

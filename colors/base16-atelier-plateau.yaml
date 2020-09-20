@@ -1,0 +1,47 @@
+# Base16 Atelier
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+
+# Main Colors
+unrecognized_file: '#8464c4'
+recognized_file:   '#8a8585'
+dir:               '#7272ca'
+
+# Link
+dead_link:         '#ca4949'
+link:              '#5485b6'
+
+# Special files
+socket:            '#4b8b8b'
+blockdev:          '#4b8b8b'
+chardev:           '#4b8b8b'
+
+# Access Modes
+read:              '#4b8b8b'
+write:             '#a06e3b'
+exec:              '#ca4949'
+no_access:         '#655d5d'
+
+# Age
+day_old:           '#8a8585'
+hour_old:          '#8a8585'
+no_modifier:       '#8a8585'
+
+# File Size
+file_large:        '#ca4949'
+file_medium:       '#a06e3b'
+file_small:        '#8a8585'
+
+# Random
+report:            '#8a8585'
+user:              '#5485b6'
+normal:            '#8a8585'
+tree:              '#a06e3b'
+empty:             '#7e7777'
+error:             '#ca4949'
+
+# Git
+addition:          '#4b8b8b'
+modification:      '#a06e3b'
+deletion:          '#ca4949'
+untracked:         '#8464c4'
+unchanged:         '#8a8585'

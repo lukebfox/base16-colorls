@@ -1,0 +1,47 @@
+# Base16 Atlas
+# Author: Alex Lende (https://ajlende.com)
+
+# Main Colors
+unrecognized_file: '#9a70a4'
+recognized_file:   '#a1a19a'
+dir:               '#5dd7b9'
+
+# Link
+dead_link:         '#ff5a67'
+link:              '#14747e'
+
+# Special files
+socket:            '#7fc06e'
+blockdev:          '#7fc06e'
+chardev:           '#7fc06e'
+
+# Access Modes
+read:              '#7fc06e'
+write:             '#ffcc1b'
+exec:              '#ff5a67'
+no_access:         '#6c8b91'
+
+# Age
+day_old:           '#a1a19a'
+hour_old:          '#a1a19a'
+no_modifier:       '#a1a19a'
+
+# File Size
+file_large:        '#ff5a67'
+file_medium:       '#ffcc1b'
+file_small:        '#a1a19a'
+
+# Random
+report:            '#a1a19a'
+user:              '#14747e'
+normal:            '#a1a19a'
+tree:              '#ffcc1b'
+empty:             '#869696'
+error:             '#ff5a67'
+
+# Git
+addition:          '#7fc06e'
+modification:      '#ffcc1b'
+deletion:          '#ff5a67'
+untracked:         '#9a70a4'
+unchanged:         '#a1a19a'

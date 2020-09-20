@@ -1,0 +1,47 @@
+# Base16 Solar
+# Author: Chuck Harmston (https://chuck.harmston.ch)
+
+# Main Colors
+unrecognized_file: '#a363d5'
+recognized_file:   '#a6afb8'
+dir:               '#33b5e1'
+
+# Link
+dead_link:         '#ef5253'
+link:              '#52cbb0'
+
+# Special files
+socket:            '#7cc844'
+blockdev:          '#7cc844'
+chardev:           '#7cc844'
+
+# Access Modes
+read:              '#7cc844'
+write:             '#e4b51c'
+exec:              '#ef5253'
+no_access:         '#667581'
+
+# Age
+day_old:           '#a6afb8'
+hour_old:          '#a6afb8'
+no_modifier:       '#a6afb8'
+
+# File Size
+file_large:        '#ef5253'
+file_medium:       '#e4b51c'
+file_small:        '#a6afb8'
+
+# Random
+report:            '#a6afb8'
+user:              '#52cbb0'
+normal:            '#a6afb8'
+tree:              '#e4b51c'
+empty:             '#85939e'
+error:             '#ef5253'
+
+# Git
+addition:          '#7cc844'
+modification:      '#e4b51c'
+deletion:          '#ef5253'
+untracked:         '#a363d5'
+unchanged:         '#a6afb8'

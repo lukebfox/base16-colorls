@@ -1,0 +1,47 @@
+# Base16 Pico
+# Author: PICO-8 (http://www.lexaloffle.com/pico-8.php)
+
+# Main Colors
+unrecognized_file: '#ff77a8'
+recognized_file:   '#5f574f'
+dir:               '#83769c'
+
+# Link
+dead_link:         '#ff004d'
+link:              '#29adff'
+
+# Special files
+socket:            '#00e756'
+blockdev:          '#00e756'
+chardev:           '#00e756'
+
+# Access Modes
+read:              '#00e756'
+write:             '#fff024'
+exec:              '#ff004d'
+no_access:         '#008751'
+
+# Age
+day_old:           '#5f574f'
+hour_old:          '#5f574f'
+no_modifier:       '#5f574f'
+
+# File Size
+file_large:        '#ff004d'
+file_medium:       '#fff024'
+file_small:        '#5f574f'
+
+# Random
+report:            '#5f574f'
+user:              '#29adff'
+normal:            '#5f574f'
+tree:              '#fff024'
+empty:             '#ab5236'
+error:             '#ff004d'
+
+# Git
+addition:          '#00e756'
+modification:      '#fff024'
+deletion:          '#ff004d'
+untracked:         '#ff77a8'
+unchanged:         '#5f574f'

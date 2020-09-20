@@ -1,0 +1,47 @@
+# Base16 Google
+# Author: Seth Wright (http://sethawright.com)
+
+# Main Colors
+unrecognized_file: '#a36ac7'
+recognized_file:   '#c5c8c6'
+dir:               '#3971ed'
+
+# Link
+dead_link:         '#cc342b'
+link:              '#3971ed'
+
+# Special files
+socket:            '#198844'
+blockdev:          '#198844'
+chardev:           '#198844'
+
+# Access Modes
+read:              '#198844'
+write:             '#fba922'
+exec:              '#cc342b'
+no_access:         '#969896'
+
+# Age
+day_old:           '#c5c8c6'
+hour_old:          '#c5c8c6'
+no_modifier:       '#c5c8c6'
+
+# File Size
+file_large:        '#cc342b'
+file_medium:       '#fba922'
+file_small:        '#c5c8c6'
+
+# Random
+report:            '#c5c8c6'
+user:              '#3971ed'
+normal:            '#c5c8c6'
+tree:              '#fba922'
+empty:             '#b4b7b4'
+error:             '#cc342b'
+
+# Git
+addition:          '#198844'
+modification:      '#fba922'
+deletion:          '#cc342b'
+untracked:         '#a36ac7'
+unchanged:         '#c5c8c6'

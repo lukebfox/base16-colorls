@@ -1,0 +1,47 @@
+# Base16 Twilight
+# Author: David Hart (https://github.com/hartbit)
+
+# Main Colors
+unrecognized_file: '#9b859d'
+recognized_file:   '#a7a7a7'
+dir:               '#7587a6'
+
+# Link
+dead_link:         '#cf6a4c'
+link:              '#afc4db'
+
+# Special files
+socket:            '#8f9d6a'
+blockdev:          '#8f9d6a'
+chardev:           '#8f9d6a'
+
+# Access Modes
+read:              '#8f9d6a'
+write:             '#f9ee98'
+exec:              '#cf6a4c'
+no_access:         '#5f5a60'
+
+# Age
+day_old:           '#a7a7a7'
+hour_old:          '#a7a7a7'
+no_modifier:       '#a7a7a7'
+
+# File Size
+file_large:        '#cf6a4c'
+file_medium:       '#f9ee98'
+file_small:        '#a7a7a7'
+
+# Random
+report:            '#a7a7a7'
+user:              '#afc4db'
+normal:            '#a7a7a7'
+tree:              '#f9ee98'
+empty:             '#838184'
+error:             '#cf6a4c'
+
+# Git
+addition:          '#8f9d6a'
+modification:      '#f9ee98'
+deletion:          '#cf6a4c'
+untracked:         '#9b859d'
+unchanged:         '#a7a7a7'

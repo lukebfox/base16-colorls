@@ -1,0 +1,47 @@
+# Base16 Material
+# Author: Nate Peterson
+
+# Main Colors
+unrecognized_file: '#c792ea'
+recognized_file:   '#959dcb'
+dir:               '#82aaff'
+
+# Link
+dead_link:         '#f07178'
+link:              '#89ddff'
+
+# Special files
+socket:            '#c3e88d'
+blockdev:          '#c3e88d'
+chardev:           '#c3e88d'
+
+# Access Modes
+read:              '#c3e88d'
+write:             '#ffcb6b'
+exec:              '#f07178'
+no_access:         '#676e95'
+
+# Age
+day_old:           '#959dcb'
+hour_old:          '#959dcb'
+no_modifier:       '#959dcb'
+
+# File Size
+file_large:        '#f07178'
+file_medium:       '#ffcb6b'
+file_small:        '#959dcb'
+
+# Random
+report:            '#959dcb'
+user:              '#89ddff'
+normal:            '#959dcb'
+tree:              '#ffcb6b'
+empty:             '#8796b0'
+error:             '#f07178'
+
+# Git
+addition:          '#c3e88d'
+modification:      '#ffcb6b'
+deletion:          '#f07178'
+untracked:         '#c792ea'
+unchanged:         '#959dcb'

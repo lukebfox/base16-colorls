@@ -1,0 +1,47 @@
+# Base16 Apathy
+# Author: Jannik Siebert (https://github.com/janniks)
+
+# Main Colors
+unrecognized_file: '#4c963e'
+recognized_file:   '#81b5ac'
+dir:               '#96883e'
+
+# Link
+dead_link:         '#3e9688'
+link:              '#963e4c'
+
+# Special files
+socket:            '#883e96'
+blockdev:          '#883e96'
+chardev:           '#883e96'
+
+# Access Modes
+read:              '#883e96'
+write:             '#3e4c96'
+exec:              '#3e9688'
+no_access:         '#2b685e'
+
+# Age
+day_old:           '#81b5ac'
+hour_old:          '#81b5ac'
+no_modifier:       '#81b5ac'
+
+# File Size
+file_large:        '#3e9688'
+file_medium:       '#3e4c96'
+file_small:        '#81b5ac'
+
+# Random
+report:            '#81b5ac'
+user:              '#963e4c'
+normal:            '#81b5ac'
+tree:              '#3e4c96'
+empty:             '#5f9c92'
+error:             '#3e9688'
+
+# Git
+addition:          '#883e96'
+modification:      '#3e4c96'
+deletion:          '#3e9688'
+untracked:         '#4c963e'
+unchanged:         '#81b5ac'

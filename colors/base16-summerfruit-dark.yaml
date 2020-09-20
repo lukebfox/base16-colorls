@@ -1,0 +1,47 @@
+# Base16 Summerfruit
+# Author: Christopher Corley (http://christop.club/)
+
+# Main Colors
+unrecognized_file: '#ad00a1'
+recognized_file:   '#d0d0d0'
+dir:               '#3777e6'
+
+# Link
+dead_link:         '#ff0086'
+link:              '#1faaaa'
+
+# Special files
+socket:            '#00c918'
+blockdev:          '#00c918'
+chardev:           '#00c918'
+
+# Access Modes
+read:              '#00c918'
+write:             '#aba800'
+exec:              '#ff0086'
+no_access:         '#505050'
+
+# Age
+day_old:           '#d0d0d0'
+hour_old:          '#d0d0d0'
+no_modifier:       '#d0d0d0'
+
+# File Size
+file_large:        '#ff0086'
+file_medium:       '#aba800'
+file_small:        '#d0d0d0'
+
+# Random
+report:            '#d0d0d0'
+user:              '#1faaaa'
+normal:            '#d0d0d0'
+tree:              '#aba800'
+empty:             '#b0b0b0'
+error:             '#ff0086'
+
+# Git
+addition:          '#00c918'
+modification:      '#aba800'
+deletion:          '#ff0086'
+untracked:         '#ad00a1'
+unchanged:         '#d0d0d0'

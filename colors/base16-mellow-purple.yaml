@@ -1,0 +1,47 @@
+# Base16 Mellow
+# Author: gidsi
+
+# Main Colors
+unrecognized_file: '#8991bb'
+recognized_file:   '#ffeeff'
+dir:               '#550068'
+
+# Link
+dead_link:         '#00d9e9'
+link:              '#b900b1'
+
+# Special files
+socket:            '#05cb0d'
+blockdev:          '#05cb0d'
+chardev:           '#05cb0d'
+
+# Access Modes
+read:              '#05cb0d'
+write:             '#955ae7'
+exec:              '#00d9e9'
+no_access:         '#320f55'
+
+# Age
+day_old:           '#ffeeff'
+hour_old:          '#ffeeff'
+no_modifier:       '#ffeeff'
+
+# File Size
+file_large:        '#00d9e9'
+file_medium:       '#955ae7'
+file_small:        '#ffeeff'
+
+# Random
+report:            '#ffeeff'
+user:              '#b900b1'
+normal:            '#ffeeff'
+tree:              '#955ae7'
+empty:             '#873582'
+error:             '#00d9e9'
+
+# Git
+addition:          '#05cb0d'
+modification:      '#955ae7'
+deletion:          '#00d9e9'
+untracked:         '#8991bb'
+unchanged:         '#ffeeff'

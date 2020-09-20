@@ -1,0 +1,47 @@
+# Base16 Cupcake
+# Author: Chris Kempson (http://chriskempson.com)
+
+# Main Colors
+unrecognized_file: '#bb99b4'
+recognized_file:   '#8b8198'
+dir:               '#7297b9'
+
+# Link
+dead_link:         '#d57e85'
+link:              '#69a9a7'
+
+# Special files
+socket:            '#a3b367'
+blockdev:          '#a3b367'
+chardev:           '#a3b367'
+
+# Access Modes
+read:              '#a3b367'
+write:             '#dcb16c'
+exec:              '#d57e85'
+no_access:         '#bfb9c6'
+
+# Age
+day_old:           '#8b8198'
+hour_old:          '#8b8198'
+no_modifier:       '#8b8198'
+
+# File Size
+file_large:        '#d57e85'
+file_medium:       '#dcb16c'
+file_small:        '#8b8198'
+
+# Random
+report:            '#8b8198'
+user:              '#69a9a7'
+normal:            '#8b8198'
+tree:              '#dcb16c'
+empty:             '#a59daf'
+error:             '#d57e85'
+
+# Git
+addition:          '#a3b367'
+modification:      '#dcb16c'
+deletion:          '#d57e85'
+untracked:         '#bb99b4'
+unchanged:         '#8b8198'

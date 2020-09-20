@@ -1,0 +1,47 @@
+# Base16 iA
+# Author: iA Inc. (modified by aramisgithub)
+
+# Main Colors
+unrecognized_file: '#b98eb2'
+recognized_file:   '#cccccc'
+dir:               '#8eccdd'
+
+# Link
+dead_link:         '#d88568'
+link:              '#7c9cae'
+
+# Special files
+socket:            '#83a471'
+blockdev:          '#83a471'
+chardev:           '#83a471'
+
+# Access Modes
+read:              '#83a471'
+write:             '#b99353'
+exec:              '#d88568'
+no_access:         '#767676'
+
+# Age
+day_old:           '#cccccc'
+hour_old:          '#cccccc'
+no_modifier:       '#cccccc'
+
+# File Size
+file_large:        '#d88568'
+file_medium:       '#b99353'
+file_small:        '#cccccc'
+
+# Random
+report:            '#cccccc'
+user:              '#7c9cae'
+normal:            '#cccccc'
+tree:              '#b99353'
+empty:             '#b8b8b8'
+error:             '#d88568'
+
+# Git
+addition:          '#83a471'
+modification:      '#b99353'
+deletion:          '#d88568'
+untracked:         '#b98eb2'
+unchanged:         '#cccccc'

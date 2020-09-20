@@ -1,0 +1,47 @@
+# Base16 Embers
+# Author: Jannik Siebert (https://github.com/janniks)
+
+# Main Colors
+unrecognized_file: '#82576d'
+recognized_file:   '#a39a90'
+dir:               '#6d5782'
+
+# Link
+dead_link:         '#826d57'
+link:              '#576d82'
+
+# Special files
+socket:            '#57826d'
+blockdev:          '#57826d'
+chardev:           '#57826d'
+
+# Access Modes
+read:              '#57826d'
+write:             '#6d8257'
+exec:              '#826d57'
+no_access:         '#5a5047'
+
+# Age
+day_old:           '#a39a90'
+hour_old:          '#a39a90'
+no_modifier:       '#a39a90'
+
+# File Size
+file_large:        '#826d57'
+file_medium:       '#6d8257'
+file_small:        '#a39a90'
+
+# Random
+report:            '#a39a90'
+user:              '#576d82'
+normal:            '#a39a90'
+tree:              '#6d8257'
+empty:             '#8a8075'
+error:             '#826d57'
+
+# Git
+addition:          '#57826d'
+modification:      '#6d8257'
+deletion:          '#826d57'
+untracked:         '#82576d'
+unchanged:         '#a39a90'

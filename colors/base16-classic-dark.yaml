@@ -1,0 +1,47 @@
+# Base16 Classic
+# Author: Jason Heeris (http://heeris.id.au)
+
+# Main Colors
+unrecognized_file: '#aa759f'
+recognized_file:   '#d0d0d0'
+dir:               '#6a9fb5'
+
+# Link
+dead_link:         '#ac4142'
+link:              '#75b5aa'
+
+# Special files
+socket:            '#90a959'
+blockdev:          '#90a959'
+chardev:           '#90a959'
+
+# Access Modes
+read:              '#90a959'
+write:             '#f4bf75'
+exec:              '#ac4142'
+no_access:         '#505050'
+
+# Age
+day_old:           '#d0d0d0'
+hour_old:          '#d0d0d0'
+no_modifier:       '#d0d0d0'
+
+# File Size
+file_large:        '#ac4142'
+file_medium:       '#f4bf75'
+file_small:        '#d0d0d0'
+
+# Random
+report:            '#d0d0d0'
+user:              '#75b5aa'
+normal:            '#d0d0d0'
+tree:              '#f4bf75'
+empty:             '#b0b0b0'
+error:             '#ac4142'
+
+# Git
+addition:          '#90a959'
+modification:      '#f4bf75'
+deletion:          '#ac4142'
+untracked:         '#aa759f'
+unchanged:         '#d0d0d0'

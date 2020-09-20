@@ -1,0 +1,47 @@
+# Base16 Seti
+# Author: * Author: 
+
+# Main Colors
+unrecognized_file: '#a074c4'
+recognized_file:   '#d6d6d6'
+dir:               '#55b5db'
+
+# Link
+dead_link:         '#cd3f45'
+link:              '#55dbbe'
+
+# Special files
+socket:            '#9fca56'
+blockdev:          '#9fca56'
+chardev:           '#9fca56'
+
+# Access Modes
+read:              '#9fca56'
+write:             '#e6cd69'
+exec:              '#cd3f45'
+no_access:         '#41535b'
+
+# Age
+day_old:           '#d6d6d6'
+hour_old:          '#d6d6d6'
+no_modifier:       '#d6d6d6'
+
+# File Size
+file_large:        '#cd3f45'
+file_medium:       '#e6cd69'
+file_small:        '#d6d6d6'
+
+# Random
+report:            '#d6d6d6'
+user:              '#55dbbe'
+normal:            '#d6d6d6'
+tree:              '#e6cd69'
+empty:             '#43a5d5'
+error:             '#cd3f45'
+
+# Git
+addition:          '#9fca56'
+modification:      '#e6cd69'
+deletion:          '#cd3f45'
+untracked:         '#a074c4'
+unchanged:         '#d6d6d6'

@@ -1,0 +1,47 @@
+# Base16 Snazzy
+# Author: Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+
+# Main Colors
+unrecognized_file: '#ff6ac1'
+recognized_file:   '#e2e4e5'
+dir:               '#57c7ff'
+
+# Link
+dead_link:         '#ff5c57'
+link:              '#9aedfe'
+
+# Special files
+socket:            '#5af78e'
+blockdev:          '#5af78e'
+chardev:           '#5af78e'
+
+# Access Modes
+read:              '#5af78e'
+write:             '#f3f99d'
+exec:              '#ff5c57'
+no_access:         '#78787e'
+
+# Age
+day_old:           '#e2e4e5'
+hour_old:          '#e2e4e5'
+no_modifier:       '#e2e4e5'
+
+# File Size
+file_large:        '#ff5c57'
+file_medium:       '#f3f99d'
+file_small:        '#e2e4e5'
+
+# Random
+report:            '#e2e4e5'
+user:              '#9aedfe'
+normal:            '#e2e4e5'
+tree:              '#f3f99d'
+empty:             '#a5a5a9'
+error:             '#ff5c57'
+
+# Git
+addition:          '#5af78e'
+modification:      '#f3f99d'
+deletion:          '#ff5c57'
+untracked:         '#ff6ac1'
+unchanged:         '#e2e4e5'

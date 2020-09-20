@@ -1,0 +1,47 @@
+# Base16 Materia
+# Author: Defman21
+
+# Main Colors
+unrecognized_file: '#82aaff'
+recognized_file:   '#cdd3de'
+dir:               '#89ddff'
+
+# Link
+dead_link:         '#ec5f67'
+link:              '#80cbc4'
+
+# Special files
+socket:            '#8bd649'
+blockdev:          '#8bd649'
+chardev:           '#8bd649'
+
+# Access Modes
+read:              '#8bd649'
+write:             '#ffcc00'
+exec:              '#ec5f67'
+no_access:         '#707880'
+
+# Age
+day_old:           '#cdd3de'
+hour_old:          '#cdd3de'
+no_modifier:       '#cdd3de'
+
+# File Size
+file_large:        '#ec5f67'
+file_medium:       '#ffcc00'
+file_small:        '#cdd3de'
+
+# Random
+report:            '#cdd3de'
+user:              '#80cbc4'
+normal:            '#cdd3de'
+tree:              '#ffcc00'
+empty:             '#c9ccd3'
+error:             '#ec5f67'
+
+# Git
+addition:          '#8bd649'
+modification:      '#ffcc00'
+deletion:          '#ec5f67'
+untracked:         '#82aaff'
+unchanged:         '#cdd3de'

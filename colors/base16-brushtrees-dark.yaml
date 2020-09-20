@@ -1,0 +1,47 @@
+# Base16 Brush
+# Author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+
+# Main Colors
+unrecognized_file: '#b386b2'
+recognized_file:   '#b0c5c8'
+dir:               '#868cb3'
+
+# Link
+dead_link:         '#b38686'
+link:              '#86b3b3'
+
+# Special files
+socket:            '#87b386'
+blockdev:          '#87b386'
+chardev:           '#87b386'
+
+# Access Modes
+read:              '#87b386'
+write:             '#aab386'
+exec:              '#b38686'
+no_access:         '#8299a1'
+
+# Age
+day_old:           '#b0c5c8'
+hour_old:          '#b0c5c8'
+no_modifier:       '#b0c5c8'
+
+# File Size
+file_large:        '#b38686'
+file_medium:       '#aab386'
+file_small:        '#b0c5c8'
+
+# Random
+report:            '#b0c5c8'
+user:              '#86b3b3'
+normal:            '#b0c5c8'
+tree:              '#aab386'
+empty:             '#98afb5'
+error:             '#b38686'
+
+# Git
+addition:          '#87b386'
+modification:      '#aab386'
+deletion:          '#b38686'
+untracked:         '#b386b2'
+unchanged:         '#b0c5c8'

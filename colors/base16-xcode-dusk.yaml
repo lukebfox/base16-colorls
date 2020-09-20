@@ -1,0 +1,47 @@
+# Base16 XCode
+# Author: Elsa Gonsiorowski (https://github.com/gonsie)
+
+# Main Colors
+unrecognized_file: '#b21889'
+recognized_file:   '#939599'
+dir:               '#790ead'
+
+# Link
+dead_link:         '#b21889'
+link:              '#00a0be'
+
+# Special files
+socket:            '#df0002'
+blockdev:          '#df0002'
+chardev:           '#df0002'
+
+# Access Modes
+read:              '#df0002'
+write:             '#438288'
+exec:              '#b21889'
+no_access:         '#686a71'
+
+# Age
+day_old:           '#939599'
+hour_old:          '#939599'
+no_modifier:       '#939599'
+
+# File Size
+file_large:        '#b21889'
+file_medium:       '#438288'
+file_small:        '#939599'
+
+# Random
+report:            '#939599'
+user:              '#00a0be'
+normal:            '#939599'
+tree:              '#438288'
+empty:             '#7e8086'
+error:             '#b21889'
+
+# Git
+addition:          '#df0002'
+modification:      '#438288'
+deletion:          '#b21889'
+untracked:         '#b21889'
+unchanged:         '#939599'

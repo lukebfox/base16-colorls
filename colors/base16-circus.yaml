@@ -1,0 +1,47 @@
+# Base16 Circus
+# Author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+
+# Main Colors
+unrecognized_file: '#b888e2'
+recognized_file:   '#a7a7a7'
+dir:               '#639ee4'
+
+# Link
+dead_link:         '#dc657d'
+link:              '#4bb1a7'
+
+# Special files
+socket:            '#84b97c'
+blockdev:          '#84b97c'
+chardev:           '#84b97c'
+
+# Access Modes
+read:              '#84b97c'
+write:             '#c3ba63'
+exec:              '#dc657d'
+no_access:         '#5f5a60'
+
+# Age
+day_old:           '#a7a7a7'
+hour_old:          '#a7a7a7'
+no_modifier:       '#a7a7a7'
+
+# File Size
+file_large:        '#dc657d'
+file_medium:       '#c3ba63'
+file_small:        '#a7a7a7'
+
+# Random
+report:            '#a7a7a7'
+user:              '#4bb1a7'
+normal:            '#a7a7a7'
+tree:              '#c3ba63'
+empty:             '#505050'
+error:             '#dc657d'
+
+# Git
+addition:          '#84b97c'
+modification:      '#c3ba63'
+deletion:          '#dc657d'
+untracked:         '#b888e2'
+unchanged:         '#a7a7a7'

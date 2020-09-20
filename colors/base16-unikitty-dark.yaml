@@ -1,0 +1,47 @@
+# Base16 Unikitty
+# Author: Josh W Lewis (@joshwlewis)
+
+# Main Colors
+unrecognized_file: '#bb60ea'
+recognized_file:   '#bcbabe'
+dir:               '#796af5'
+
+# Link
+dead_link:         '#d8137f'
+link:              '#149bda'
+
+# Special files
+socket:            '#17ad98'
+blockdev:          '#17ad98'
+chardev:           '#17ad98'
+
+# Access Modes
+read:              '#17ad98'
+write:             '#dc8a0e'
+exec:              '#d8137f'
+no_access:         '#838085'
+
+# Age
+day_old:           '#bcbabe'
+hour_old:          '#bcbabe'
+no_modifier:       '#bcbabe'
+
+# File Size
+file_large:        '#d8137f'
+file_medium:       '#dc8a0e'
+file_small:        '#bcbabe'
+
+# Random
+report:            '#bcbabe'
+user:              '#149bda'
+normal:            '#bcbabe'
+tree:              '#dc8a0e'
+empty:             '#9f9da2'
+error:             '#d8137f'
+
+# Git
+addition:          '#17ad98'
+modification:      '#dc8a0e'
+deletion:          '#d8137f'
+untracked:         '#bb60ea'
+unchanged:         '#bcbabe'

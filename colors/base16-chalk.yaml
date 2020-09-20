@@ -1,0 +1,47 @@
+# Base16 Chalk
+# Author: Chris Kempson (http://chriskempson.com)
+
+# Main Colors
+unrecognized_file: '#e1a3ee'
+recognized_file:   '#d0d0d0'
+dir:               '#6fc2ef'
+
+# Link
+dead_link:         '#fb9fb1'
+link:              '#12cfc0'
+
+# Special files
+socket:            '#acc267'
+blockdev:          '#acc267'
+chardev:           '#acc267'
+
+# Access Modes
+read:              '#acc267'
+write:             '#ddb26f'
+exec:              '#fb9fb1'
+no_access:         '#505050'
+
+# Age
+day_old:           '#d0d0d0'
+hour_old:          '#d0d0d0'
+no_modifier:       '#d0d0d0'
+
+# File Size
+file_large:        '#fb9fb1'
+file_medium:       '#ddb26f'
+file_small:        '#d0d0d0'
+
+# Random
+report:            '#d0d0d0'
+user:              '#12cfc0'
+normal:            '#d0d0d0'
+tree:              '#ddb26f'
+empty:             '#b0b0b0'
+error:             '#fb9fb1'
+
+# Git
+addition:          '#acc267'
+modification:      '#ddb26f'
+deletion:          '#fb9fb1'
+untracked:         '#e1a3ee'
+unchanged:         '#d0d0d0'

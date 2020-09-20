@@ -1,0 +1,47 @@
+# Base16 Heetch
+# Author: Geoffrey Teale (tealeg@gmail.com)
+
+# Main Colors
+unrecognized_file: '#82034c'
+recognized_file:   '#bdb6c5'
+dir:               '#bd0152'
+
+# Link
+dead_link:         '#27d9d5'
+link:              '#f80059'
+
+# Special files
+socket:            '#c33678'
+blockdev:          '#c33678'
+chardev:           '#c33678'
+
+# Access Modes
+read:              '#c33678'
+write:             '#8f6c97'
+exec:              '#27d9d5'
+no_access:         '#7b6d8b'
+
+# Age
+day_old:           '#bdb6c5'
+hour_old:          '#bdb6c5'
+no_modifier:       '#bdb6c5'
+
+# File Size
+file_large:        '#27d9d5'
+file_medium:       '#8f6c97'
+file_small:        '#bdb6c5'
+
+# Random
+report:            '#bdb6c5'
+user:              '#f80059'
+normal:            '#bdb6c5'
+tree:              '#8f6c97'
+empty:             '#9c92a8'
+error:             '#27d9d5'
+
+# Git
+addition:          '#c33678'
+modification:      '#8f6c97'
+deletion:          '#27d9d5'
+untracked:         '#82034c'
+unchanged:         '#bdb6c5'

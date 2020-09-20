@@ -1,0 +1,47 @@
+# Base16 Gruvbox
+# Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+
+# Main Colors
+unrecognized_file: '#d3869b'
+recognized_file:   '#d5c4a1'
+dir:               '#83a598'
+
+# Link
+dead_link:         '#fb4934'
+link:              '#8ec07c'
+
+# Special files
+socket:            '#b8bb26'
+blockdev:          '#b8bb26'
+chardev:           '#b8bb26'
+
+# Access Modes
+read:              '#b8bb26'
+write:             '#fabd2f'
+exec:              '#fb4934'
+no_access:         '#665c54'
+
+# Age
+day_old:           '#d5c4a1'
+hour_old:          '#d5c4a1'
+no_modifier:       '#d5c4a1'
+
+# File Size
+file_large:        '#fb4934'
+file_medium:       '#fabd2f'
+file_small:        '#d5c4a1'
+
+# Random
+report:            '#d5c4a1'
+user:              '#8ec07c'
+normal:            '#d5c4a1'
+tree:              '#fabd2f'
+empty:             '#bdae93'
+error:             '#fb4934'
+
+# Git
+addition:          '#b8bb26'
+modification:      '#fabd2f'
+deletion:          '#fb4934'
+untracked:         '#d3869b'
+unchanged:         '#d5c4a1'

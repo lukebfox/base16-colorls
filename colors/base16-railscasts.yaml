@@ -1,0 +1,47 @@
+# Base16 Railscasts
+# Author: Ryan Bates (http://railscasts.com)
+
+# Main Colors
+unrecognized_file: '#b6b3eb'
+recognized_file:   '#e6e1dc'
+dir:               '#6d9cbe'
+
+# Link
+dead_link:         '#da4939'
+link:              '#519f50'
+
+# Special files
+socket:            '#a5c261'
+blockdev:          '#a5c261'
+chardev:           '#a5c261'
+
+# Access Modes
+read:              '#a5c261'
+write:             '#ffc66d'
+exec:              '#da4939'
+no_access:         '#5a647e'
+
+# Age
+day_old:           '#e6e1dc'
+hour_old:          '#e6e1dc'
+no_modifier:       '#e6e1dc'
+
+# File Size
+file_large:        '#da4939'
+file_medium:       '#ffc66d'
+file_small:        '#e6e1dc'
+
+# Random
+report:            '#e6e1dc'
+user:              '#519f50'
+normal:            '#e6e1dc'
+tree:              '#ffc66d'
+empty:             '#d4cfc9'
+error:             '#da4939'
+
+# Git
+addition:          '#a5c261'
+modification:      '#ffc66d'
+deletion:          '#da4939'
+untracked:         '#b6b3eb'
+unchanged:         '#e6e1dc'

@@ -1,0 +1,47 @@
+# Base16 Ocean
+# Author: Chris Kempson (http://chriskempson.com)
+
+# Main Colors
+unrecognized_file: '#b48ead'
+recognized_file:   '#c0c5ce'
+dir:               '#8fa1b3'
+
+# Link
+dead_link:         '#bf616a'
+link:              '#96b5b4'
+
+# Special files
+socket:            '#a3be8c'
+blockdev:          '#a3be8c'
+chardev:           '#a3be8c'
+
+# Access Modes
+read:              '#a3be8c'
+write:             '#ebcb8b'
+exec:              '#bf616a'
+no_access:         '#65737e'
+
+# Age
+day_old:           '#c0c5ce'
+hour_old:          '#c0c5ce'
+no_modifier:       '#c0c5ce'
+
+# File Size
+file_large:        '#bf616a'
+file_medium:       '#ebcb8b'
+file_small:        '#c0c5ce'
+
+# Random
+report:            '#c0c5ce'
+user:              '#96b5b4'
+normal:            '#c0c5ce'
+tree:              '#ebcb8b'
+empty:             '#a7adba'
+error:             '#bf616a'
+
+# Git
+addition:          '#a3be8c'
+modification:      '#ebcb8b'
+deletion:          '#bf616a'
+untracked:         '#b48ead'
+unchanged:         '#c0c5ce'

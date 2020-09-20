@@ -1,0 +1,47 @@
+# Base16 Solarized
+# Author: Ethan Schoonover (modified by aramisgithub)
+
+# Main Colors
+unrecognized_file: '#6c71c4'
+recognized_file:   '#586e75'
+dir:               '#268bd2'
+
+# Link
+dead_link:         '#dc322f'
+link:              '#2aa198'
+
+# Special files
+socket:            '#859900'
+blockdev:          '#859900'
+chardev:           '#859900'
+
+# Access Modes
+read:              '#859900'
+write:             '#b58900'
+exec:              '#dc322f'
+no_access:         '#839496'
+
+# Age
+day_old:           '#586e75'
+hour_old:          '#586e75'
+no_modifier:       '#586e75'
+
+# File Size
+file_large:        '#dc322f'
+file_medium:       '#b58900'
+file_small:        '#586e75'
+
+# Random
+report:            '#586e75'
+user:              '#2aa198'
+normal:            '#586e75'
+tree:              '#b58900'
+empty:             '#657b83'
+error:             '#dc322f'
+
+# Git
+addition:          '#859900'
+modification:      '#b58900'
+deletion:          '#dc322f'
+untracked:         '#6c71c4'
+unchanged:         '#586e75'

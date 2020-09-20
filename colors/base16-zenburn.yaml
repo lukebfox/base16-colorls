@@ -1,0 +1,47 @@
+# Base16 Zenburn
+# Author: elnawe
+
+# Main Colors
+unrecognized_file: '#dc8cc3'
+recognized_file:   '#dcdccc'
+dir:               '#7cb8bb'
+
+# Link
+dead_link:         '#dca3a3'
+link:              '#93e0e3'
+
+# Special files
+socket:            '#5f7f5f'
+blockdev:          '#5f7f5f'
+chardev:           '#5f7f5f'
+
+# Access Modes
+read:              '#5f7f5f'
+write:             '#e0cf9f'
+exec:              '#dca3a3'
+no_access:         '#6f6f6f'
+
+# Age
+day_old:           '#dcdccc'
+hour_old:          '#dcdccc'
+no_modifier:       '#dcdccc'
+
+# File Size
+file_large:        '#dca3a3'
+file_medium:       '#e0cf9f'
+file_small:        '#dcdccc'
+
+# Random
+report:            '#dcdccc'
+user:              '#93e0e3'
+normal:            '#dcdccc'
+tree:              '#e0cf9f'
+empty:             '#808080'
+error:             '#dca3a3'
+
+# Git
+addition:          '#5f7f5f'
+modification:      '#e0cf9f'
+deletion:          '#dca3a3'
+untracked:         '#dc8cc3'
+unchanged:         '#dcdccc'

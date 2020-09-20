@@ -1,0 +1,47 @@
+# Base16 Eighties
+# Author: Chris Kempson (http://chriskempson.com)
+
+# Main Colors
+unrecognized_file: '#cc99cc'
+recognized_file:   '#d3d0c8'
+dir:               '#6699cc'
+
+# Link
+dead_link:         '#f2777a'
+link:              '#66cccc'
+
+# Special files
+socket:            '#99cc99'
+blockdev:          '#99cc99'
+chardev:           '#99cc99'
+
+# Access Modes
+read:              '#99cc99'
+write:             '#ffcc66'
+exec:              '#f2777a'
+no_access:         '#747369'
+
+# Age
+day_old:           '#d3d0c8'
+hour_old:          '#d3d0c8'
+no_modifier:       '#d3d0c8'
+
+# File Size
+file_large:        '#f2777a'
+file_medium:       '#ffcc66'
+file_small:        '#d3d0c8'
+
+# Random
+report:            '#d3d0c8'
+user:              '#66cccc'
+normal:            '#d3d0c8'
+tree:              '#ffcc66'
+empty:             '#a09f93'
+error:             '#f2777a'
+
+# Git
+addition:          '#99cc99'
+modification:      '#ffcc66'
+deletion:          '#f2777a'
+untracked:         '#cc99cc'
+unchanged:         '#d3d0c8'

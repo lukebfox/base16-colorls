@@ -1,0 +1,47 @@
+# Base16 Pop
+# Author: Chris Kempson (http://chriskempson.com)
+
+# Main Colors
+unrecognized_file: '#b31e8d'
+recognized_file:   '#d0d0d0'
+dir:               '#0e5a94'
+
+# Link
+dead_link:         '#eb008a'
+link:              '#00aabb'
+
+# Special files
+socket:            '#37b349'
+blockdev:          '#37b349'
+chardev:           '#37b349'
+
+# Access Modes
+read:              '#37b349'
+write:             '#f8ca12'
+exec:              '#eb008a'
+no_access:         '#505050'
+
+# Age
+day_old:           '#d0d0d0'
+hour_old:          '#d0d0d0'
+no_modifier:       '#d0d0d0'
+
+# File Size
+file_large:        '#eb008a'
+file_medium:       '#f8ca12'
+file_small:        '#d0d0d0'
+
+# Random
+report:            '#d0d0d0'
+user:              '#00aabb'
+normal:            '#d0d0d0'
+tree:              '#f8ca12'
+empty:             '#b0b0b0'
+error:             '#eb008a'
+
+# Git
+addition:          '#37b349'
+modification:      '#f8ca12'
+deletion:          '#eb008a'
+untracked:         '#b31e8d'
+unchanged:         '#d0d0d0'

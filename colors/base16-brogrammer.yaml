@@ -1,0 +1,47 @@
+# Base16 Brogrammer
+# Author: Vik Ramanujam (http://github.com/piggyslasher)
+
+# Main Colors
+unrecognized_file: '#0f7ddb'
+recognized_file:   '#4e5ab7'
+dir:               '#5350b9'
+
+# Link
+dead_link:         '#d6dbe5'
+link:              '#1081d6'
+
+# Special files
+socket:            '#f3bd09'
+blockdev:          '#f3bd09'
+chardev:           '#f3bd09'
+
+# Access Modes
+read:              '#f3bd09'
+write:             '#1dd361'
+exec:              '#d6dbe5'
+no_access:         '#ecba0f'
+
+# Age
+day_old:           '#4e5ab7'
+hour_old:          '#4e5ab7'
+no_modifier:       '#4e5ab7'
+
+# File Size
+file_large:        '#d6dbe5'
+file_medium:       '#1dd361'
+file_small:        '#4e5ab7'
+
+# Random
+report:            '#4e5ab7'
+user:              '#1081d6'
+normal:            '#4e5ab7'
+tree:              '#1dd361'
+empty:             '#2a84d2'
+error:             '#d6dbe5'
+
+# Git
+addition:          '#f3bd09'
+modification:      '#1dd361'
+deletion:          '#d6dbe5'
+untracked:         '#0f7ddb'
+unchanged:         '#4e5ab7'

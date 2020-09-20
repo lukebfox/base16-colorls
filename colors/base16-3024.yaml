@@ -1,0 +1,47 @@
+# Base16 3024
+# Author: Jan T. Sott (http://github.com/idleberg)
+
+# Main Colors
+unrecognized_file: '#a16a94'
+recognized_file:   '#a5a2a2'
+dir:               '#01a0e4'
+
+# Link
+dead_link:         '#db2d20'
+link:              '#b5e4f4'
+
+# Special files
+socket:            '#01a252'
+blockdev:          '#01a252'
+chardev:           '#01a252'
+
+# Access Modes
+read:              '#01a252'
+write:             '#fded02'
+exec:              '#db2d20'
+no_access:         '#5c5855'
+
+# Age
+day_old:           '#a5a2a2'
+hour_old:          '#a5a2a2'
+no_modifier:       '#a5a2a2'
+
+# File Size
+file_large:        '#db2d20'
+file_medium:       '#fded02'
+file_small:        '#a5a2a2'
+
+# Random
+report:            '#a5a2a2'
+user:              '#b5e4f4'
+normal:            '#a5a2a2'
+tree:              '#fded02'
+empty:             '#807d7c'
+error:             '#db2d20'
+
+# Git
+addition:          '#01a252'
+modification:      '#fded02'
+deletion:          '#db2d20'
+untracked:         '#a16a94'
+unchanged:         '#a5a2a2'

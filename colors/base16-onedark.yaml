@@ -1,0 +1,47 @@
+# Base16 OneDark
+# Author: Lalit Magant (http://github.com/tilal6991)
+
+# Main Colors
+unrecognized_file: '#c678dd'
+recognized_file:   '#abb2bf'
+dir:               '#61afef'
+
+# Link
+dead_link:         '#e06c75'
+link:              '#56b6c2'
+
+# Special files
+socket:            '#98c379'
+blockdev:          '#98c379'
+chardev:           '#98c379'
+
+# Access Modes
+read:              '#98c379'
+write:             '#e5c07b'
+exec:              '#e06c75'
+no_access:         '#545862'
+
+# Age
+day_old:           '#abb2bf'
+hour_old:          '#abb2bf'
+no_modifier:       '#abb2bf'
+
+# File Size
+file_large:        '#e06c75'
+file_medium:       '#e5c07b'
+file_small:        '#abb2bf'
+
+# Random
+report:            '#abb2bf'
+user:              '#56b6c2'
+normal:            '#abb2bf'
+tree:              '#e5c07b'
+empty:             '#565c64'
+error:             '#e06c75'
+
+# Git
+addition:          '#98c379'
+modification:      '#e5c07b'
+deletion:          '#e06c75'
+untracked:         '#c678dd'
+unchanged:         '#abb2bf'

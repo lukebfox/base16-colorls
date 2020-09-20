@@ -1,0 +1,47 @@
+# Base16 Nord
+# Author: arcticicestudio
+
+# Main Colors
+unrecognized_file: '#a3be8c'
+recognized_file:   '#e5e9f0'
+dir:               '#ebcb8b'
+
+# Link
+dead_link:         '#88c0d0'
+link:              '#d08770'
+
+# Special files
+socket:            '#bf616a'
+blockdev:          '#bf616a'
+chardev:           '#bf616a'
+
+# Access Modes
+read:              '#bf616a'
+write:             '#5e81ac'
+exec:              '#88c0d0'
+no_access:         '#4c566a'
+
+# Age
+day_old:           '#e5e9f0'
+hour_old:          '#e5e9f0'
+no_modifier:       '#e5e9f0'
+
+# File Size
+file_large:        '#88c0d0'
+file_medium:       '#5e81ac'
+file_small:        '#e5e9f0'
+
+# Random
+report:            '#e5e9f0'
+user:              '#d08770'
+normal:            '#e5e9f0'
+tree:              '#5e81ac'
+empty:             '#d8dee9'
+error:             '#88c0d0'
+
+# Git
+addition:          '#bf616a'
+modification:      '#5e81ac'
+deletion:          '#88c0d0'
+untracked:         '#a3be8c'
+unchanged:         '#e5e9f0'

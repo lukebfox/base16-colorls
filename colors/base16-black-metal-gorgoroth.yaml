@@ -1,0 +1,47 @@
+# Base16 Black
+# Author: metalelf0 (https://github.com/metalelf0)
+
+# Main Colors
+unrecognized_file: '#999999'
+recognized_file:   '#c1c1c1'
+dir:               '#888888'
+
+# Link
+dead_link:         '#5f8787'
+link:              '#aaaaaa'
+
+# Special files
+socket:            '#9b8d7f'
+blockdev:          '#9b8d7f'
+chardev:           '#9b8d7f'
+
+# Access Modes
+read:              '#9b8d7f'
+write:             '#8c7f70'
+exec:              '#5f8787'
+no_access:         '#333333'
+
+# Age
+day_old:           '#c1c1c1'
+hour_old:          '#c1c1c1'
+no_modifier:       '#c1c1c1'
+
+# File Size
+file_large:        '#5f8787'
+file_medium:       '#8c7f70'
+file_small:        '#c1c1c1'
+
+# Random
+report:            '#c1c1c1'
+user:              '#aaaaaa'
+normal:            '#c1c1c1'
+tree:              '#8c7f70'
+empty:             '#999999'
+error:             '#5f8787'
+
+# Git
+addition:          '#9b8d7f'
+modification:      '#8c7f70'
+deletion:          '#5f8787'
+untracked:         '#999999'
+unchanged:         '#c1c1c1'

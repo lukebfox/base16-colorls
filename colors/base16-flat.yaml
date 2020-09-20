@@ -1,0 +1,47 @@
+# Base16 Flat
+# Author: Chris Kempson (http://chriskempson.com)
+
+# Main Colors
+unrecognized_file: '#9b59b6'
+recognized_file:   '#e0e0e0'
+dir:               '#3498db'
+
+# Link
+dead_link:         '#e74c3c'
+link:              '#1abc9c'
+
+# Special files
+socket:            '#2ecc71'
+blockdev:          '#2ecc71'
+chardev:           '#2ecc71'
+
+# Access Modes
+read:              '#2ecc71'
+write:             '#f1c40f'
+exec:              '#e74c3c'
+no_access:         '#95a5a6'
+
+# Age
+day_old:           '#e0e0e0'
+hour_old:          '#e0e0e0'
+no_modifier:       '#e0e0e0'
+
+# File Size
+file_large:        '#e74c3c'
+file_medium:       '#f1c40f'
+file_small:        '#e0e0e0'
+
+# Random
+report:            '#e0e0e0'
+user:              '#1abc9c'
+normal:            '#e0e0e0'
+tree:              '#f1c40f'
+empty:             '#bdc3c7'
+error:             '#e74c3c'
+
+# Git
+addition:          '#2ecc71'
+modification:      '#f1c40f'
+deletion:          '#e74c3c'
+untracked:         '#9b59b6'
+unchanged:         '#e0e0e0'

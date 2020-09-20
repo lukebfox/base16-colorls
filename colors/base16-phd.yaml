@@ -1,0 +1,47 @@
+# Base16 PhD
+# Author: Hennig Hasemann (http://leetless.de/vim.html)
+
+# Main Colors
+unrecognized_file: '#9989cc'
+recognized_file:   '#b8bbc2'
+dir:               '#5299bf'
+
+# Link
+dead_link:         '#d07346'
+link:              '#72b9bf'
+
+# Special files
+socket:            '#99bf52'
+blockdev:          '#99bf52'
+chardev:           '#99bf52'
+
+# Access Modes
+read:              '#99bf52'
+write:             '#fbd461'
+exec:              '#d07346'
+no_access:         '#717885'
+
+# Age
+day_old:           '#b8bbc2'
+hour_old:          '#b8bbc2'
+no_modifier:       '#b8bbc2'
+
+# File Size
+file_large:        '#d07346'
+file_medium:       '#fbd461'
+file_small:        '#b8bbc2'
+
+# Random
+report:            '#b8bbc2'
+user:              '#72b9bf'
+normal:            '#b8bbc2'
+tree:              '#fbd461'
+empty:             '#9a99a3'
+error:             '#d07346'
+
+# Git
+addition:          '#99bf52'
+modification:      '#fbd461'
+deletion:          '#d07346'
+untracked:         '#9989cc'
+unchanged:         '#b8bbc2'

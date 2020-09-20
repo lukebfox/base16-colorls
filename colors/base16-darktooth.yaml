@@ -1,0 +1,47 @@
+# Base16 Darktooth
+# Author: Jason Milkins (https://github.com/jasonm23)
+
+# Main Colors
+unrecognized_file: '#8f4673'
+recognized_file:   '#a89984'
+dir:               '#0d6678'
+
+# Link
+dead_link:         '#fb543f'
+link:              '#8ba59b'
+
+# Special files
+socket:            '#95c085'
+blockdev:          '#95c085'
+chardev:           '#95c085'
+
+# Access Modes
+read:              '#95c085'
+write:             '#fac03b'
+exec:              '#fb543f'
+no_access:         '#665c54'
+
+# Age
+day_old:           '#a89984'
+hour_old:          '#a89984'
+no_modifier:       '#a89984'
+
+# File Size
+file_large:        '#fb543f'
+file_medium:       '#fac03b'
+file_small:        '#a89984'
+
+# Random
+report:            '#a89984'
+user:              '#8ba59b'
+normal:            '#a89984'
+tree:              '#fac03b'
+empty:             '#928374'
+error:             '#fb543f'
+
+# Git
+addition:          '#95c085'
+modification:      '#fac03b'
+deletion:          '#fb543f'
+untracked:         '#8f4673'
+unchanged:         '#a89984'

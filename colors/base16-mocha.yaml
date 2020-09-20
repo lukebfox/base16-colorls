@@ -1,0 +1,47 @@
+# Base16 Mocha
+# Author: Chris Kempson (http://chriskempson.com)
+
+# Main Colors
+unrecognized_file: '#a89bb9'
+recognized_file:   '#d0c8c6'
+dir:               '#8ab3b5'
+
+# Link
+dead_link:         '#cb6077'
+link:              '#7bbda4'
+
+# Special files
+socket:            '#beb55b'
+blockdev:          '#beb55b'
+chardev:           '#beb55b'
+
+# Access Modes
+read:              '#beb55b'
+write:             '#f4bc87'
+exec:              '#cb6077'
+no_access:         '#7e705a'
+
+# Age
+day_old:           '#d0c8c6'
+hour_old:          '#d0c8c6'
+no_modifier:       '#d0c8c6'
+
+# File Size
+file_large:        '#cb6077'
+file_medium:       '#f4bc87'
+file_small:        '#d0c8c6'
+
+# Random
+report:            '#d0c8c6'
+user:              '#7bbda4'
+normal:            '#d0c8c6'
+tree:              '#f4bc87'
+empty:             '#b8afad'
+error:             '#cb6077'
+
+# Git
+addition:          '#beb55b'
+modification:      '#f4bc87'
+deletion:          '#cb6077'
+untracked:         '#a89bb9'
+unchanged:         '#d0c8c6'

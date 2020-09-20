@@ -1,0 +1,47 @@
+# Base16 Harmonic16
+# Author: Jannik Siebert (https://github.com/janniks)
+
+# Main Colors
+unrecognized_file: '#bf568b'
+recognized_file:   '#405c79'
+dir:               '#8b56bf'
+
+# Link
+dead_link:         '#bf8b56'
+link:              '#568bbf'
+
+# Special files
+socket:            '#56bf8b'
+blockdev:          '#56bf8b'
+chardev:           '#56bf8b'
+
+# Access Modes
+read:              '#56bf8b'
+write:             '#8bbf56'
+exec:              '#bf8b56'
+no_access:         '#aabcce'
+
+# Age
+day_old:           '#405c79'
+hour_old:          '#405c79'
+no_modifier:       '#405c79'
+
+# File Size
+file_large:        '#bf8b56'
+file_medium:       '#8bbf56'
+file_small:        '#405c79'
+
+# Random
+report:            '#405c79'
+user:              '#568bbf'
+normal:            '#405c79'
+tree:              '#8bbf56'
+empty:             '#627e99'
+error:             '#bf8b56'
+
+# Git
+addition:          '#56bf8b'
+modification:      '#8bbf56'
+deletion:          '#bf8b56'
+untracked:         '#bf568b'
+unchanged:         '#405c79'

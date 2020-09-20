@@ -1,0 +1,47 @@
+# Base16 Grayscale
+# Author: Alexandre Gavioli (https://github.com/Alexx2/)
+
+# Main Colors
+unrecognized_file: '#747474'
+recognized_file:   '#464646'
+dir:               '#686868'
+
+# Link
+dead_link:         '#7c7c7c'
+link:              '#868686'
+
+# Special files
+socket:            '#8e8e8e'
+blockdev:          '#8e8e8e'
+chardev:           '#8e8e8e'
+
+# Access Modes
+read:              '#8e8e8e'
+write:             '#a0a0a0'
+exec:              '#7c7c7c'
+no_access:         '#ababab'
+
+# Age
+day_old:           '#464646'
+hour_old:          '#464646'
+no_modifier:       '#464646'
+
+# File Size
+file_large:        '#7c7c7c'
+file_medium:       '#a0a0a0'
+file_small:        '#464646'
+
+# Random
+report:            '#464646'
+user:              '#868686'
+normal:            '#464646'
+tree:              '#a0a0a0'
+empty:             '#525252'
+error:             '#7c7c7c'
+
+# Git
+addition:          '#8e8e8e'
+modification:      '#a0a0a0'
+deletion:          '#7c7c7c'
+untracked:         '#747474'
+unchanged:         '#464646'

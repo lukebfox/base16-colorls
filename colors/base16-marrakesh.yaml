@@ -1,0 +1,47 @@
+# Base16 Marrakesh
+# Author: Alexandre Gavioli (http://github.com/Alexx2/)
+
+# Main Colors
+unrecognized_file: '#8868b3'
+recognized_file:   '#948e48'
+dir:               '#477ca1'
+
+# Link
+dead_link:         '#c35359'
+link:              '#75a738'
+
+# Special files
+socket:            '#18974e'
+blockdev:          '#18974e'
+chardev:           '#18974e'
+
+# Access Modes
+read:              '#18974e'
+write:             '#a88339'
+exec:              '#c35359'
+no_access:         '#6c6823'
+
+# Age
+day_old:           '#948e48'
+hour_old:          '#948e48'
+no_modifier:       '#948e48'
+
+# File Size
+file_large:        '#c35359'
+file_medium:       '#a88339'
+file_small:        '#948e48'
+
+# Random
+report:            '#948e48'
+user:              '#75a738'
+normal:            '#948e48'
+tree:              '#a88339'
+empty:             '#86813b'
+error:             '#c35359'
+
+# Git
+addition:          '#18974e'
+modification:      '#a88339'
+deletion:          '#c35359'
+untracked:         '#8868b3'
+unchanged:         '#948e48'

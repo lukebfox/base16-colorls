@@ -1,0 +1,47 @@
+# Base16 Outrun
+# Author: Hugo Delahousse (http://github.com/hugodelahousse/)
+
+# Main Colors
+unrecognized_file: '#f10596'
+recognized_file:   '#d0d0fa'
+dir:               '#66b0ff'
+
+# Link
+dead_link:         '#ff4242'
+link:              '#0ef0f0'
+
+# Special files
+socket:            '#59f176'
+blockdev:          '#59f176'
+chardev:           '#59f176'
+
+# Access Modes
+read:              '#59f176'
+write:             '#f3e877'
+exec:              '#ff4242'
+no_access:         '#50507a'
+
+# Age
+day_old:           '#d0d0fa'
+hour_old:          '#d0d0fa'
+no_modifier:       '#d0d0fa'
+
+# File Size
+file_large:        '#ff4242'
+file_medium:       '#f3e877'
+file_small:        '#d0d0fa'
+
+# Random
+report:            '#d0d0fa'
+user:              '#0ef0f0'
+normal:            '#d0d0fa'
+tree:              '#f3e877'
+empty:             '#b0b0da'
+error:             '#ff4242'
+
+# Git
+addition:          '#59f176'
+modification:      '#f3e877'
+deletion:          '#ff4242'
+untracked:         '#f10596'
+unchanged:         '#d0d0fa'

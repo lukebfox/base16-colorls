@@ -1,0 +1,47 @@
+# Base16 Spacemacs
+# Author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+
+# Main Colors
+unrecognized_file: '#a31db1'
+recognized_file:   '#a3a3a3'
+dir:               '#4f97d7'
+
+# Link
+dead_link:         '#f2241f'
+link:              '#2d9574'
+
+# Special files
+socket:            '#67b11d'
+blockdev:          '#67b11d'
+chardev:           '#67b11d'
+
+# Access Modes
+read:              '#67b11d'
+write:             '#b1951d'
+exec:              '#f2241f'
+no_access:         '#585858'
+
+# Age
+day_old:           '#a3a3a3'
+hour_old:          '#a3a3a3'
+no_modifier:       '#a3a3a3'
+
+# File Size
+file_large:        '#f2241f'
+file_medium:       '#b1951d'
+file_small:        '#a3a3a3'
+
+# Random
+report:            '#a3a3a3'
+user:              '#2d9574'
+normal:            '#a3a3a3'
+tree:              '#b1951d'
+empty:             '#b8b8b8'
+error:             '#f2241f'
+
+# Git
+addition:          '#67b11d'
+modification:      '#b1951d'
+deletion:          '#f2241f'
+untracked:         '#a31db1'
+unchanged:         '#a3a3a3'

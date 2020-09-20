@@ -1,0 +1,47 @@
+# Base16 Ashes
+# Author: Jannik Siebert (https://github.com/janniks)
+
+# Main Colors
+unrecognized_file: '#c795ae'
+recognized_file:   '#c7ccd1'
+dir:               '#ae95c7'
+
+# Link
+dead_link:         '#c7ae95'
+link:              '#95aec7'
+
+# Special files
+socket:            '#95c7ae'
+blockdev:          '#95c7ae'
+chardev:           '#95c7ae'
+
+# Access Modes
+read:              '#95c7ae'
+write:             '#aec795'
+exec:              '#c7ae95'
+no_access:         '#747c84'
+
+# Age
+day_old:           '#c7ccd1'
+hour_old:          '#c7ccd1'
+no_modifier:       '#c7ccd1'
+
+# File Size
+file_large:        '#c7ae95'
+file_medium:       '#aec795'
+file_small:        '#c7ccd1'
+
+# Random
+report:            '#c7ccd1'
+user:              '#95aec7'
+normal:            '#c7ccd1'
+tree:              '#aec795'
+empty:             '#adb3ba'
+error:             '#c7ae95'
+
+# Git
+addition:          '#95c7ae'
+modification:      '#aec795'
+deletion:          '#c7ae95'
+untracked:         '#c795ae'
+unchanged:         '#c7ccd1'
