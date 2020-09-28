@@ -7,7 +7,7 @@ generate a functional config file for
 [athityakumar/colorls](https://github.com/athityakumar/colorls),
 a prettifier for 'ls' written in ruby.
 
-If you already themed your terminal with base16, then it is advised not to use this template for your colorls' config file. In this case, options set to standard colors such as red, green, blue, etc. will render as the correct colours for your theme automatically.
+If you've already themed your terminal with a base16 template, then it is not advised to use theme colorls with this template. In this scenario, options set to standard colors such as red, green, blue, etc. will automatically render as the correct colors for whatever theme you're running.
 
 To use, you can copy one of the config files in colors/ or use curl:
 
